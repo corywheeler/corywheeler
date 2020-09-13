@@ -1,5 +1,10 @@
 ### Initial commit :\
 
+## Quasimatic
+
+Come check out what we're working on at [quasimatic.com](https://quasimatic.com)
+
+
 <!--
 **corywheeler/corywheeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
